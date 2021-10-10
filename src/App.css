@@ -1,0 +1,13 @@
+
+img{
+  width: 140px;
+  height: 140px;
+  margin: 40px auto;
+}
+
+.intro{
+  color: black;
+  margin: 20px auto;
+  font-size: 18px;
+  font-weight: bold;
+}
