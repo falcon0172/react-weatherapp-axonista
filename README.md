@@ -8,6 +8,8 @@ In the project directory, you can run:
 App.js is the main file which has all the components.
 Dowload this and install the dependencies by npm install in this folder itself.
 The src folder has 2 folders store which contains the global variables used and the components which in turn has 3 folders for each types of components. The app and the index js files are in src with their respective files. The public folder has all the relevant media for the app. This is a reactJS app so please use npm install if you're running for the first time.
+You can also download the project from the following link:
+https://drive.google.com/drive/folders/1gkgmDVYjkuuNM2UBJ-sInjB0md5aK24s?usp=sharing
 
 ### `npm start`
 
