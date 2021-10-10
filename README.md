@@ -5,6 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+App.js is the main file which has all the components.
+Dowload this and install the dependencies by npm install in this folder itself.
+The src folder has 2 folders store which contains the global variables used and the components which in turn has 3 folders for each types of components. The app and the index js files are in src with their respective files. The public folder has all the relevant media for the app. This is a reactJS app so please use npm install if you're running for the first time.
 
 ### `npm start`
 
